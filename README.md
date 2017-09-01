@@ -11,11 +11,11 @@ Introductory text for Kalman and Bayesian filters. All code is written in Python
 Start reading online now by clicking the binder badge below:
 
 
-[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/rlabbe/Kalman-and-Bayesian-Filters-in-Python/master)
+[![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/w407022008/Kalman-and-Bayesian-Filters-in-Python/master)
 
 
 
-![alt tag](https://raw.githubusercontent.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/master/animations/05_dog_track.gif)
+![alt tag](https://raw.githubusercontent.com/w407022008/Kalman-and-Bayesian-Filters-in-Python/master/animations/05_dog_track.gif)
 
 What are Kalman and Bayesian Filters?
 -----
@@ -71,7 +71,7 @@ binder serves interactive notebooks online, so you can run the code and change t
 
 ### nbviewer
 
-The website http://nbviewer.org provides an Jupyter Notebook server that renders notebooks stored at github (or elsewhere). The rendering is done in real time when you load the book. You may use [*this nbviewer link*](http://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb) to access my book via nbviewer. If you read my book today, and then I make a change tomorrow, when you go back tomorrow you will see that change. Notebooks are rendered statically - you can read them, but not modify or run the code.
+The website http://nbviewer.org provides an Jupyter Notebook server that renders notebooks stored at github (or elsewhere). The rendering is done in real time when you load the book. You may use [*this nbviewer link*](http://nbviewer.ipython.org/github/w407022008/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb) to access my book via nbviewer. If you read my book today, and then I make a change tomorrow, when you go back tomorrow you will see that change. Notebooks are rendered statically - you can read them, but not modify or run the code.
 
 ### GitHub
 
@@ -81,7 +81,7 @@ GitHub is able to render the notebooks directly. The quickest way to view a note
 Issues or Questions
 ------
 
-If you have comments, you can write an issue at GitHub so that everyone can read it along with my response. Please don't view it as a way to report bugs only. Alternatively I've created a gitter room for more informal discussion. [![Join the chat at https://gitter.im/rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rlabbe/Kalman-and-Bayesian-Filters-in-Python?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+If you have comments, you can write an issue at GitHub so that everyone can read it along with my response. Please don't view it as a way to report bugs only. Alternatively I've created a gitter room for more informal discussion. [![Join the chat at https://gitter.im/rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/407022008/Kalman-and-Bayesian-Filters-in-Python?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 The preface available from the link above has all the information in this README and more, so feel free to follow the link now.
@@ -144,7 +144,7 @@ Personally, I use the Anaconda Python distribution in all of my work, [available
 
 Finally, you will need to install FilterPy, described in the next section.
 
-Installation of all of these packages is described in the Installation appendix, which you can read online [here](http://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/Appendix_A_Installation.ipynb).
+Installation of all of these packages is described in the Installation appendix, which you can read online [here](http://nbviewer.ipython.org/github/w407022008/Kalman-and-Bayesian-Filters-in-Python/blob/master/Appendix_A_Installation.ipynb).
 
 
 Provided Libraries and Modules
